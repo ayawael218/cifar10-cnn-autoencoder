@@ -8,5 +8,5 @@
   Training Configuration: Trained for 10 epochs with the Adam optimizer and Mean Squared Error (MSE) as the loss function.
   Performance: Achieved a final training loss of 0.0052 and a validation loss of 0.0051, demonstrating effective denoising capabilities.
 
-3)Programming Tools: 
+3) Programming Tools: 
   Python, NumPy, TensorFlow, Matplotlib.
